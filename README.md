@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm **Vũ Đức Tâm**  
 
-<!--
-**TamVu2002/TamVu2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ About Me  
+- 🎓 **Computer Science** student at **Thuy Loi University**.  
+- 💻 Passionate about programming and exploring new technologies.  
+- 🔧 Proficient in **C/C++**, focusing on **clean and efficient code**.  
+- 🌐 Currently learning **PHP** and web development.  
+- 🔥 Interested in **computer networking**, working to improve my **subnetting skills**.  
+- 🏗️ Developing a **flower e-commerce website** as a practical web development project.  
 
-Here are some ideas to get you started:
+## 💻 Technologies & Skills  
+- 🖥️ **Programming Languages**: C/C++, PHP (learning).  
+- 🛠️ **Operating Systems**: **CentOS**, experienced in working with **root access**.  
+- 🏗️ **Tools**: Dev-C++ (facing issues with Vietnamese text input).  
+- 📱 **Devices**: Xiaomi smartphone, interested in **custom ROMs** like Pixel Experience.  
+- 💡 Enthusiastic about **smooth UI/UX animations** in operating systems.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Goals & Aspirations  
+- Build and deploy a **functional e-commerce website** to gain real-world experience.  
+- Improve **networking knowledge**, especially in **subnetting**.  
+- Enhance my skills in **PHP** and **web development**.  
+- Prioritize **hands-on experience** over theory.  
+
+## 📌 Connect with Me  
+- 📩 **Email**: tamvu3130@gmail.com  
+- 🔗 **Facebook**: [Vũ Đức Tâm](https://www.facebook.com/profile.php?id=100041424370051)  
